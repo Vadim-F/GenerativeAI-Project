@@ -107,7 +107,7 @@ Top-k (0 to disable): 70
 Maximum length (tokens): 70
 The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
 
-Результат:
+Result:
 I swear by the name of the King of kings:
 And, as thou seest me, thou shalt not stay there.
 
