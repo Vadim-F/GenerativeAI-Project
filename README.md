@@ -144,6 +144,14 @@ After analyzing the final training runs:
 - Inspired by HuggingFace Transformers library.
 - Special thanks to the guidance during experiments and optimization process.
 
+
+
+## Loss graphs for the old version of the model written using Tiny Decoder and GPT2Tokenizer
+https://wandb.ai/pbox4f-hochschule-hannover/my-language-model?nw=nwuserpbox4f
+
+## Loss graphs for the new version of the model written using MyDecoderModel and AutoTokenizer
+https://wandb.ai/pbox4f-hochschule-hannover/my-language-model?nw=nwuserpbox4f
+
 ## Hugging Face Model
 https://huggingface.co/VadimHammer/my_shakespeare_model
 ---
