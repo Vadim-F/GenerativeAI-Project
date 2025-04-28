@@ -152,6 +152,9 @@ https://wandb.ai/pbox4f-hochschule-hannover/my-language-model?nw=nwuserpbox4f
 ## Loss graphs for the new version of the model written using MyDecoderModel and AutoTokenizer
 https://wandb.ai/pbox4f-hochschule-hannover/my-language-model?nw=nwuserpbox4f
 
+## Loss graphs for the Fine-tuning GPT2 model (further training of the model on the Tiny Shakespeare dataset) model = GPT2LMHeadModel.from_pretrained("gpt2")
+https://wandb.ai/pbox4f-hochschule-hannover/my-language-model/runs/ppx2n1re/workspace?nw=nwuserpbox4f
+
 ## Hugging Face Model
 https://huggingface.co/VadimHammer/my_shakespeare_model
 ---
