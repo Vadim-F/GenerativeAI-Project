@@ -94,6 +94,27 @@ The heart of it off from the fire, which Would so to his own love from these thy
 All that doth they do give; For this time for not have done withal, Let's not like an old women of war, 
 The time that I must bring the one of a gentle breath ...
 
+For the Fine-tuning GPT2 model 
+
+Select the model:
+1 - Basic GPT-2
+2 - Fine-tuned model
+Your choice (1/2): 2
+Device used: cuda
+Enter the initial text: I swear by the name of the King
+Temperature (0.1-1.0): 1.0
+Top-k (0 to disable): 70
+Maximum length (tokens): 70
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+
+Результат:
+I swear by the name of the King of kings:
+And, as thou seest me, thou shalt not stay there.
+
+KING HENRY VI:
+Hast thou not fear'd not that? But if not,
+Then I'll visit that heaven and seek it out.
+For, I guess, 'tis none to
 
 ## 📦 Model Files
 
